@@ -1,6 +1,6 @@
 # ETHWalletTransaction
 
-By entering the wallet address, accessing the address-bound transaction address on the ETH blockchain and viewing the details of these transactions
+By entering the wallet address, it is possible to access the transaction address linked to the address in the ETH blockchain and view the details of these transactions.
 
 #### .Net Core Web Api - React.js - Docker  / Nethereum - Infura Api 
 
